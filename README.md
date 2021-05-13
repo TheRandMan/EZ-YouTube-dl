@@ -4,11 +4,11 @@
 
 A supplemental script to make youtube-dl easier to use.
 
-This script aims to the follow two uses of youtube-dl easier to use:
+This script aims to make two common uses of youtube-dl easier to use:
   - Downloading a video in its highest available quality as an MP4
   - Downloading the video as an MP3
 
-The file will be saved in your home directory.
+The file will be saved where youtube-dl saves files by default.
 
 # Requirements
 - youtube-dl
