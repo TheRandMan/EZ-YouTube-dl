@@ -15,7 +15,7 @@ The file will be saved in your home directory.
 - ffmpeg
 
 # How to use
-## MacOS
+## MacOS Users
 ### Install requirements
 Open Terminal and run the following commands:
 - Install homebrew
@@ -33,3 +33,5 @@ Open Terminal and run the following commands:
 ### Use it
 - Double click ez-youtube-dl.sh
 
+## Linux Users
+- You probably know how to set this up already
